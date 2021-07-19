@@ -1,0 +1,11 @@
+{
+  "name": "PUPPY",
+  "type": "BEP20",
+  "symbol": "PPY",
+  "decimals": 18,
+  "website": "https://www.puppytoken.site",
+  "description": "PUPPY Token is a project with a mission to aid abused, neglected, and homeless animals.",
+  "explorer": "https://bscscan.com/token/0xcc8ab34847713c8e293e0ece1f26be823641f34e",
+  "status": "active",
+  "id": "0xcc8ab34847713c8e293e0ece1f26be823641f34e"
+}
